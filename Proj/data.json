@@ -1,0 +1,58 @@
+[
+    {
+        "image":"Image/pic1.jpeg",
+        "title": "Armothy",
+        "status": "Dead - Unknown",
+        "location": "Planet Earth",
+        "first_seen": "Planet Mars"
+    },
+    {
+        "image":"Image/pic2.jpeg",
+        "title": "Horse",
+        "status": "Dead - Alien",
+        "location": "Planet Earth",
+        "first_seen": "Planet Mars"
+    },
+    {
+        "image":"Image/pic3.jpeg",
+        "title": "Lady",
+        "status": "Unknown - Human",
+        "location": "Unknown",
+        "first_seen": "Mortyville"
+    },
+    {
+        "image":"Image/pic4.jpeg",
+        "title": "Bug",
+        "status": "Alive - Alien",
+        "location": "Planet Earth",
+        "first_seen": "Planet Mars"
+    },
+    {
+        "image":"Image/pic5.jpeg",
+        "title": "Toxic Morty",
+        "status": "Dead - Humanoid",
+        "location": "Earth (Replacement Dimension)",
+        "first_seen": "Rest and Ricklaxation"
+    },
+    {
+        "image":"Image/pic6.jpeg",
+        "title": "Kevin",
+        "status": "Unknown - Alien",
+        "location": "Zigerion's Base",
+        "first_seen": "M. Night Shaym-Aliens!"
+    },
+    {
+        "image":"Image/pic7.jpeg",
+        "title": "Body Guard Morty",
+        "status": "Dead - Human",
+        "location": "Citadel of Ricks",
+        "first_seen": "The Ricklantis Mixup"
+    },
+    {
+        "image":"Image/pic8.jpeg",
+        "title": "Mr Celery & Friends",
+        "status": "Alive - Unknown",
+        "location": "Ricks's Story",
+        "first_seen": "Never Ricking Morty"
+    }
+]
